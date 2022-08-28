@@ -1,0 +1,7 @@
+(259) What happens on the next screen is bewildering, but I will spare you the details because I’m assuming you don’t want to know about branches or commits or pull requests, you just want to build the kind of presentation I’ve promised you can. So, just follow this recipe.
+
+    (262) Name the file (e.g. sample-press-release.txt
+    (263) Copy/paste the text of the document into the edit box
+    (264) Select Create a new branch for this commit and start a pull request
+    (265) Name the branch (e.g. edits)
+    (266) Click Propose new file 
